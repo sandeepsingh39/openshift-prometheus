@@ -1,4 +1,4 @@
-# Prometheus on OpenShift
+# Prometheus for OpenShift
 
 This repository contains definitions and tools to run Prometheus and its associated ecosystem on Red Hat OpenShift.
 
