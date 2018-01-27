@@ -1,5 +1,5 @@
-FROM        centos:7
-MAINTAINER  Wolfgang Kulhanek <WolfgangKulhanek@gmail.com>
+FROM       centos:7
+MAINTAINER  Sandeep Kumar Singh (Sandeepsingh4997@gmail.com)
 
 ENV PROMETHEUS_VERSION=2.1.0
 
