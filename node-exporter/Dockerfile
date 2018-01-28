@@ -1,5 +1,5 @@
 FROM        centos:7
-MAINTAINER  Wolfgang Kulhanek <WolfgangKulhanek@gmail.com>
+MAINTAINER  Sandeep Kumar Singh <sandeepsingh4997@gmail.com>
 
 ENV NODE_EXPORTER_VERSION=0.15.2
 

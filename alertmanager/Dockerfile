@@ -1,5 +1,5 @@
 FROM        centos:7
-MAINTAINER  Wolfgang Kulhanek <WolfgangKulhanek@gmail.com>
+MAINTAINER  Sandeep Kumar Singh <sandeepsingh4997@gmail.com>
 
 ENV ALERT_MANAGER_VERSION=0.13.0
 
